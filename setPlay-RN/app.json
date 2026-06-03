@@ -1,0 +1,78 @@
+{
+  "expo": {
+    "name": "setPlay-RN",
+    "slug": "setPlay-RN",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/logo.svg",
+    "scheme": "setplayrn",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app needs access to the camera to record live footage.",
+        "NSMicrophoneUsageDescription": "This app needs access to the microphone to record live footage."
+      }
+    },
+    "android": {
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/logo.svg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.diwi.setPlayRN"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/icons/logo.svg"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/icons/logo.svg",
+          "imageWidth": 200,
+          "backgroundColor": "#141319",
+          "resizeMode": "contain"
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow SetPlay to access your camera",
+          "microphonePermission": "Allow SetPlay to access your microphone",
+          "recordAudioAndroid": true
+        }
+      ],
+      "expo-web-browser",
+      "expo-router",
+      "expo-audio",
+      [
+        "expo-font",
+        {
+          "fonts": ["./assets/fonts/ProximaNova-Regular.ttf"]
+        }
+      ],
+      "expo-video"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "baseUrl": "http://192.168.0.82:5089"
+    }
+  }
+}

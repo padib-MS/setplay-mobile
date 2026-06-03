@@ -1,0 +1,17 @@
+D:\projs\setPlay\setPlay-C#.Business\bin\Debug\net8.0\setPlay-C#.Business.deps.json
+D:\projs\setPlay\setPlay-C#.Business\bin\Debug\net8.0\setPlay-C#.Business.dll
+D:\projs\setPlay\setPlay-C#.Business\bin\Debug\net8.0\setPlay-C#.Business.pdb
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\setPlay-C#.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\setPlay-C#.Business.AssemblyInfoInputs.cache
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\setPlay-C#.Business.AssemblyInfo.cs
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\setPlay-C#.Business.csproj.CoreCompileInputs.cache
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\setPlay-C#.Business.dll
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\refint\setPlay-C#.Business.dll
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\setPlay-C#.Business.pdb
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\ref\setPlay-C#.Business.dll
+D:\projs\setPlay\setPlay-C#.Business\bin\Debug\net8.0\setPlay-C#.Common.dll
+D:\projs\setPlay\setPlay-C#.Business\bin\Debug\net8.0\setPlay-C#.Data.dll
+D:\projs\setPlay\setPlay-C#.Business\bin\Debug\net8.0\setPlay-C#.Common.pdb
+D:\projs\setPlay\setPlay-C#.Business\bin\Debug\net8.0\setPlay-C#.Data.pdb
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\setPlay-C#.Business.csproj.AssemblyReference.cache
+D:\projs\setPlay\setPlay-C#.Business\obj\Debug\net8.0\setPlay-.59EDAB98.Up2Date
